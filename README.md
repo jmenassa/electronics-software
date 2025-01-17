@@ -102,7 +102,3 @@ Details for your third project will go here. Continue adding sections for any fu
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-### Notes:
-- You can add or update the sections for each project as you add more projects to the repository.
-- Each project folder can contain its own `README.md` for detailed instructions or documentation related to the specific project.
