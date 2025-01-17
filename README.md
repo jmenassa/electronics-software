@@ -66,14 +66,14 @@ This project demonstrates how to control the color of an RGB LED using two butto
 ## Project 2
 
 **Description:**  
-Details for your second project will go here. You can describe the hardware, functionality, and any other important information about the project.
+
 
 ---
 
 ## Project 3
 
 **Description:**  
-Details for your third project will go here. Continue adding sections for any future projects as you go.
+
 
 ---
 
