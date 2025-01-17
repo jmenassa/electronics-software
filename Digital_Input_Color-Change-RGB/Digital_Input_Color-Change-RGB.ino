@@ -88,13 +88,13 @@ void changeValue(int color, int value, int i) {
   switch (color) {
     case 1:
       if (v < 0) {
-        redValue == 0;
-        greenValue == 255;
+        redValue = 0;
+        greenValue = 255;
         r = false;
         g = true;
       } else if (v > 255) {
-        redValue == 255;
-        blueValue == 0;
+        redValue = 255;
+        blueValue = 0;
         r = false;
         b = true;
       } else {
@@ -104,13 +104,13 @@ void changeValue(int color, int value, int i) {
       break;
     case 2:
       if (v < 0) {
-        greenValue == 0;
-        blueValue == 255;
+        greenValue = 0;
+        blueValue = 255;
         g = false;
         b = true;
       } else if (v > 255) {
-        greenValue == 255;
-        redValue == 0;
+        greenValue = 255;
+        redValue = 0;
         g = false;
         r = true;
       } else {
@@ -120,13 +120,13 @@ void changeValue(int color, int value, int i) {
       break;
     case 3:
       if (v < 0) {
-        blueValue == 0;
-        redValue == 255;
+        blueValue = 0;
+        redValue = 255;
         b = false;
         r = true;
       } else if (v > 255) {
-        blueValue == 255;
-        greenValue == 0;
+        blueValue = 255;
+        greenValue = 0;
         b = false;
         g = true;
       } else {
