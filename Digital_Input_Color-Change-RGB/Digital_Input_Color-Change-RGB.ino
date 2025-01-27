@@ -1,6 +1,3 @@
-//www.elegoo.com
-//2016.12.08
-
 // Define Pins
 #define BLUE 3
 #define GREEN 5
